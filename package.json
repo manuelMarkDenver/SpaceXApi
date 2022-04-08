@@ -2,7 +2,7 @@
   "name": "code-test-mern",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://{manuelMarkDenver}.github.io",
+  "homepage": "https://manuelmarkdenver.github.io/SpaceXApi/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
     "axios": "^0.26.1",
