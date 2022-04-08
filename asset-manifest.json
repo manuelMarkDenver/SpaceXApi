@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/manuelMarkDenver/static/css/main.caab40db.css",
-    "main.js": "/manuelMarkDenver/static/js/main.9b6e2274.js",
-    "index.html": "/manuelMarkDenver/index.html",
-    "main.caab40db.css.map": "/manuelMarkDenver/static/css/main.caab40db.css.map",
-    "main.9b6e2274.js.map": "/manuelMarkDenver/static/js/main.9b6e2274.js.map"
+    "main.css": "/SpaceXApi/static/css/main.caab40db.css",
+    "main.js": "/SpaceXApi/static/js/main.9b6e2274.js",
+    "index.html": "/SpaceXApi/index.html",
+    "main.caab40db.css.map": "/SpaceXApi/static/css/main.caab40db.css.map",
+    "main.9b6e2274.js.map": "/SpaceXApi/static/js/main.9b6e2274.js.map"
   },
   "entrypoints": [
     "static/css/main.caab40db.css",
